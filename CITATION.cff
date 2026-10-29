@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite the article."
+title: "Replication files for: Accuracy Motivations, Predispositions, and Social Information in Political Discussion Networks"
+type: software
+authors:
+  - family-names: Pietryka
+    given-names: Matthew T.
+    affiliation: University of Wisconsin–Madison
+    orcid: "https://orcid.org/0000-0002-0347-1110"
+license: MIT
+date-released: 2026-10-29
+version: "1.0"
+keywords:
+  - replication
+  - political discussion
+  - social networks
+  - accuracy motivations
+  - experiments
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Pietryka
+      given-names: Matthew T.
+      orcid: "https://orcid.org/0000-0002-0347-1110"
+  title: "Accuracy Motivations, Predispositions, and Social Information in Political Discussion Networks"
+  journal: "Political Psychology"
+  volume: 37
+  issue: 3
+  start: 367
+  end: 386
+  year: 2016
+  doi: 10.1111/pops.12255
